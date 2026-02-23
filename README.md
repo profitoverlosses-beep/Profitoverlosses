@@ -1,1 +1,15 @@
-# Profitoverlosses
+# 💫 About Me:
+🔭 I'm currently working on — A PDF AI Writer app (AI-powered document generation) & fullstack web applications using React + Node.js<br>👥 I'm looking to collaborate on — Frontend projects using React, open-source tools around AI/document processing, or any creative fullstack builds<br>💛 I'm looking for help with — Optimizing AI API integrations, scaling backend services, and advanced React performance patterns<br>🌱 I'm currently learning — TypeScript, backend architecture (REST & GraphQL APIs), cloud deployment (AWS/Vercel), and AI/LLM API integration<br>💬 Ask me about — React, component-driven UI design, building with AI APIs, or getting started as a junior dev in the frontend world<br>⚡ Fun fact — I went from zero to building AI-powered apps as a junior dev — proof that curiosity beats experience every time!<br><br>Bonus — suggested tech stack badges you can add to your README:<br>React · JavaScript · TypeScript · TailwindCSS · Node.js · Express · REST APIs · OpenAI API · Git · Vercel
+
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Profitoverlosses&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Profitoverlosses&theme=default&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Profitoverlosses&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Profitoverlosses&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
